@@ -3,8 +3,8 @@
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-
-# Reflection -
+## https://github.com/sf-wdi-31/building-js-iterators-lab
+# Reflection - Michael Rogachevsky
 ## All of the functions had the same basic principles. Really it was just a for loop, and passing (arr[i], i, arr) into the callback. I like this sort of practice to develop a deeper knowledge of the internal workings of JS native methods.
 
 # Building Iterator Methods
